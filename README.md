@@ -1,20 +1,22 @@
-# NEAT UP!
+# NEAT!
 ![Image of NeatUp](./public/assets/neat_logo-03-01.png)
 
-<a href="https://project-neat.herokuapp.com/">NEAT</a>
+* Note: This is a fork to fix cheers button and modals on iphone
+
+See the deployed version of this fork here: <a href="https://hidden-beach-97090.herokuapp.com">NEAT</a>
 
 Are you tirsty? Can't you decide what you drink? Want to know new cocktail recipies? 
 
 Be ready to **Neat your mind up!**
 
-**NEAT UP** is simple cocktail creation and search web project. This project will help the client to find randomize drink, most favorite drink on cocktailDB and show how to make them and ingredients. Also client can add cocktails into their favorite section. Maybe they need to make it later! Maybe client is bartender or like unordinary drinks or has really creative mind to make their or special drink. **NEAT UP** help them to create new drink!
+**NEAT** is simple cocktail creation and search web project. This project will help the client to find randomize drink, most favorite drink on cocktailDB and show how to make them and ingredients. Also client can add cocktails into their favorite section. Maybe they need to make it later! Maybe client is bartender or like unordinary drinks or has really creative mind to make their or special drink. **NEAT** help them to create new drink!
 
 
 Web page will start with age asking validation. If client is under 21 they cannot reach the web page. 
 
 ![Image of AgeAsking](./public/assets/ageAsking.png)
 
-After passing age validation **NEAT UP** index page will show most popular and most known 15 drink to clinent. Such as mojito, old fashion...
+After passing age validation **NEAT** index page will show most popular and most known 15 drink to clinent. Such as mojito, old fashion...
 
 ![Image of IndexPage](./public/assets/IndexPage.png)
 
@@ -26,7 +28,7 @@ Are you open for new tastes? Do you like gambling? Randomize function is for you
 
 ![Image of randomize](./public/assets/ramdomize.png)
 
-If client click one of the drink the modal pop up the page as modal. And client can see what are inside of the cocktail and how to make it. Also, Clients maybe want to add it as them favorite or create new one with insprired from this cocktail! It is easy with **NEAT UP**.
+If client click one of the drink the modal pop up the page as modal. And client can see what are inside of the cocktail and how to make it. Also, Clients maybe want to add it as them favorite or create new one with insprired from this cocktail! It is easy with **NEAT**.
 
 ![Image of Modal](./public/assets/Modal.png)
 
